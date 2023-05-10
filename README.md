@@ -17,8 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <p>
   
-  <img src="https://github.com/Flutter2616/play_video/assets/124335197/427a9fe6-707e-46f9-becb-094b2ad48ff8" height="50%"width="30%">
-  <img src="https://github.com/Flutter2616/play_video/assets/124335197/def9545c-b93c-42ae-ab30-d6b47549a699" height="50%"width="30%">
+   <img src="https://github.com/Flutter2616/play_video/assets/124335197/c2b90112-4f9b-4557-98bb-9ae983cb5226" height="50%" width="30%">
+   <img src="https://github.com/Flutter2616/play_video/assets/124335197/55dfbd76-5878-47c0-b111-4230a32b6821" height="50%" width="30%">
   
   </p>
- 
